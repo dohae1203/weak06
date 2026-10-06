@@ -1,0 +1,8 @@
+# 안올리는 파일
+fun_*.py
+run_*.py
+
+# 안올리는 폴더
+__pycache__/
+.venv
+.vscode
